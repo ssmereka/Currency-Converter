@@ -1,0 +1,22 @@
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.Properties.Resources.resources
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.exe
+c:\users\scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.pdb
+C:\Users\Scott\documents\visual studio 2010\Projects\CurrencyConverter\CurrencyConverter\obj\x86\Debug\CurrencyConverter.MainForm.resources
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.exe
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.pdb
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.MainForm.resources
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gazoo\Desktop\cis476\CIS476 Project 2 Scott Smereka\Problem 2\CIS476_Project2_Problem2\CurrencyConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gazoo\Desktop\CIS476_Project2_ScottSmereka\Source Code\Problem 2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.exe
+C:\Users\Gazoo\Desktop\CIS476_Project2_ScottSmereka\Source Code\Problem 2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.pdb
+C:\Users\Scott\Desktop\CIS476_Project2_ScottSmereka\Source Code\Problem 2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.exe
+C:\Users\Scott\Desktop\CIS476_Project2_ScottSmereka\Source Code\Problem 2\CurrencyConverter\obj\x86\Debug\CurrencyConverter.pdb
